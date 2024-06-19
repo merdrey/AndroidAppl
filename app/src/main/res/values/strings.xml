@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="players">
+        <item>PeterTheGreat  VS  SuperMeatBoy</item>
+        <item>SuperMeatBoy  VS  MegaMan</item>
+        <item>MegaMan  VS  PeterTheGreat</item>
+    </string-array>
+    <string-array name="time">
+        <item>14.06.2024 21:00  –  15.06.2025 21:00</item>
+        <item>15.06.2024 22:00  –  15.06.2024 23:00</item>
+        <item>14.06.2024 20:00  –  15.06.2024 20:00</item>
+    </string-array>
+    <string-array name="winners">
+        <item>SuperMeatBoy</item>
+        <item>SuperMeatBoy</item>
+        <item>PeterTheGreat</item>
+    </string-array>
+    <string-array name="tab_players">
+        <item>MegaMan</item>
+        <item>PeterTheGreat</item>
+        <item>SuperMeatBoy</item>
+        <item>Carolus Rex</item>
+    </string-array>
+    <string-array name="tab_dates">
+        <item>21.06.2022</item>
+        <item>10.03.2023</item>
+        <item>08.07.2020</item>
+        <item>17.06.2024</item>
+    </string-array>
+    <string-array name="tab_rates">
+        <item>12%</item>
+        <item>25%</item>
+        <item>50%</item>
+        <item>40%</item>
+    </string-array>
+    <string-array name="tab_units">
+        <item>Spearman</item>
+        <item>Axeman</item>
+        <item>CrossBow</item>
+        <item>HorseBow</item>
+    </string-array>
+    <string name="news_ex1">Благодаря основным принципам ООП игра Baumans Gate появилась на свет в том виде, в котором она существует сейчас.
+    Эти принципы позволили создать всех юнитов, все постройки и даже создать бота! Всем начинающим разработчикам автор статьи настоятельно рекомендует осваивать ООП!</string>
+    <string name="news_ex1_data">16.06.2024</string>
+    <string name="profile_text">Здесь нельзя авторизоваться, потому что я вас не запомню. Переходите в другие вкладки.</string>
+</resources>

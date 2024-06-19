@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication">
+        <item name="android:textViewStyle">@font/aldrich</item>
+        <item name="android:buttonStyle">@font/aldrich</item>
+        <item name="android:textStyle">bold|italic</item>
+    </style>
+</resources>
